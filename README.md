@@ -21,17 +21,14 @@
 [![nodejs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
 
 #### Databases
-
-[![mysql](https://skillicons.dev/icons?i=mysql&perline=1)](https://skillicons.dev)
-
-[![postgres](https://skillicons.dev/icons?i=postgres&perline=1)](https://skillicons.dev)
-
-[![mongodb](https://skillicons.dev/icons?i=mongodb&perline=1)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  </a>
+</p>
 
 
 #### DevOps
-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,gcp,docker,kubernetes,docker,terraform,linux" />
@@ -40,12 +37,11 @@
 ---
 
 #### Learning
-
-[![bash](https://skillicons.dev/icons?i=bash&perline=1)](https://skillicons.dev)
-
-[![aws](https://skillicons.dev/icons?i=aws&perline=1)](https://skillicons.dev)
-
-[![vue](https://skillicons.dev/icons?i=vue&perline=1)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,aws,vue" />
+  </a>
+</p>
 
 
 
