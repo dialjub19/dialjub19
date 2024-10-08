@@ -14,36 +14,45 @@
 
 #### Frontend 💻
 
-[![angular](https://skillicons.dev/icons?i=angular&perline=3)](https://skillicons.dev)
-
-#### Backend 🚀
-[![nodejs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
-
-#### Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
-
-#### DevOps ⚙️
-[![DevOps](https://skillicons.dev/icons?i=git,aws,gcp,docker,kubernetes,docker,terraform,linux)](https://skillicons.dev)
-
----
-#### Learning 💡
-[![DevOps](https://skillicons.dev/icons?i=bash,aws,vue)](https://skillicons.dev)
-
-
----
-<img src="https://skillicons.dev/icons?i=angular" alt="Angular icon" title="Angular">
----
-<button>
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular icon" style="width: 20px; height: 20px;">
-  Angular
-</button>
-
----
-
 <div style="text-align: center;">
   <img src="https://skillicons.dev/icons?i=angular" alt="Angular icon">
   <p>Angular</p>
 </div>
+
+#### Backend 🚀
+<div style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs icon">
+  <p>NodeJs</p>
+</div>
+
+#### Databases
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="width: 50px; height: 50px;">
+</div>
+
+
+#### DevOps ⚙️
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" title="Google Cloud" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" style="width: 50px; height: 50px;">
+</div>
+
+
+---
+#### Learning 💡
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" style="width: 50px; height: 50px;">
+</div>
+
 
 <!--
 **dialjub19/dialjub19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
