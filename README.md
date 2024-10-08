@@ -3,46 +3,31 @@
 [![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dialjub19)
 
 ---
-## I'm a Computer Science Engineer student
+## I'm a Computer Science Engineer student 
 
-- I'm currently working as Angular development 
+- ⚡ I'm currently working as Angular development 
 
-- I'm currently learning about Cloud Native technologies and improving my DevOps skills ☁
+- 🌱 I'm currently learning about Cloud Native technologies and improving my DevOps skills ☁
 ---
 
-## Skills
+## Skills ✨
 
-#### Frontend
+#### Frontend 💻
 
 [![angular](https://skillicons.dev/icons?i=angular&perline=3)](https://skillicons.dev)
 
-#### Backend
-
+#### Backend 🚀
 [![nodejs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
 
 #### Databases
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  </a>
-</p>
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
+#### DevOps ⚙️
+[![DevOps](https://skillicons.dev/icons?i=git,aws,gcp,docker,kubernetes,docker,terraform,linux)](https://skillicons.dev)
 
-#### DevOps
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,gcp,docker,kubernetes,docker,terraform,linux" />
-  </a>
-</p>
 ---
-
-#### Learning
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,aws,vue" />
-  </a>
-</p>
-
+#### Learning 💡
+[![DevOps](https://skillicons.dev/icons?i=bash,aws,vue)](https://skillicons.dev)
 
 
 <!--
