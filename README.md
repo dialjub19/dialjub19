@@ -2,11 +2,13 @@
 
 [![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dialjub19)
 
+---
 ## I'm a Computer Science Engineer student
 
 - I'm currently working as Angular development 
 
 - I'm currently learning about Cloud Native technologies and improving my DevOps skills ☁
+---
 
 ## Skills
 
@@ -29,17 +31,13 @@
 
 #### DevOps
 
-[![git](https://skillicons.dev/icons?i=git&perline=1)](https://skillicons.dev)
 
-[![AWS](https://skillicons.dev/icons?i=aws&perline=1)](https://skillicons.dev)
-
-[![gcp](https://skillicons.dev/icons?i=gcp&perline=1)](https://skillicons.dev)
-
-[![docker](https://skillicons.dev/icons?i=docker&perline=1)](https://skillicons.dev)
-
-[![kubernetes](https://skillicons.dev/icons?i=kubernetes&perline=1)](https://skillicons.dev)
-
-[![terraform](https://skillicons.dev/icons?i=terraform&perline=1)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,gcp,docker,kubernetes,docker,terraform,linux" />
+  </a>
+</p>
+---
 
 #### Learning
 
