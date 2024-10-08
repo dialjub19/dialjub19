@@ -8,8 +8,8 @@
 ## I'm a Computer Science Engineer student 
 
 - ⚡ I'm currently working as an Angular developer.
-
 - 🌱 I'm currently learning about Cloud Native technologies and improving my DevOps skills ☁
+- ❤️ I love linux system
 
 ## Skills ✨
 
