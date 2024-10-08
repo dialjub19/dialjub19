@@ -27,12 +27,18 @@
 
 #### Databases
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" style="width: 50px; height: 50px;">
-  <p>MySQL</p>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" style="width: 50px; height: 50px;">
-  <p>PostgreSQL</p>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="width: 50px; height: 50px;">
-  <p>MongoDB</p>
+  <div style="display: flex; flex-direction: column;"> 
+     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" style="width: 50px; height: 50px;">
+     <p>MySQL</p>
+  </div>
+  <div style="display: flex; flex-direction: column;"> 
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" style="width: 50px; height: 50px;">
+    <p>PostgreSQL</p>
+  </div>
+  <div style="display: flex; flex-direction: column;"> 
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="width: 50px; height: 50px;">
+    <p>MongoDB</p>
+  </div>
 </div>
 
 
