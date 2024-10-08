@@ -1,4 +1,4 @@
-## Hi there 👋
+## <h1 align="center"> Hi, I am Diego Juarez </h1>
 
 <!--
 **dialjub19/dialjub19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
