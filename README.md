@@ -3,7 +3,7 @@
 [![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dialjub19)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-juarez-5b1683203/)
 
-
+<img src="https://komarev.com/ghpvc/?username=dialjub19&color=blue" alt="watching_count" />
 
 ## I'm a Computer Science Engineer student 
 
