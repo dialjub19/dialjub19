@@ -30,6 +30,21 @@
 [![DevOps](https://skillicons.dev/icons?i=bash,aws,vue)](https://skillicons.dev)
 
 
+---
+<img src="https://skillicons.dev/icons?i=angular" alt="Angular icon" title="Angular">
+---
+<button>
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular icon" style="width: 20px; height: 20px;">
+  Angular
+</button>
+
+---
+
+<div style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular icon">
+  <p>Angular</p>
+</div>
+
 <!--
 **dialjub19/dialjub19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
