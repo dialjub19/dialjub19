@@ -26,7 +26,7 @@
 </div>
 
 #### Databases
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
   <div style="display: flex; flex-direction: column;"> 
      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" style="width: 50px; height: 50px;">
      <p>MySQL</p>
