@@ -1,16 +1,18 @@
 ## <h1 align="center"> Hi, I am Diego Juarez </h1>
-
 [![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dialjub19)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-juarez-5b1683203/)
 
 <img src="https://komarev.com/ghpvc/?username=dialjub19&color=blue" alt="watching_count" />
 
-## I'm a Computer Science Engineer student 
 
+### I'm a Computer Science Engineer student 
+
+<pre>
 - ⚡ I'm currently working as an Angular developer.
 - 🌱 I'm currently learning about Cloud Native technologies and improving my DevOps skills ☁
 - ❤️ I love linux system
-
+</pre>
+  
 ## Skills ✨
 
 #### During my university career, I worked with these technologies to expand my knowledge by applying best practices and using various environments such as Windows and Linux.
