@@ -71,18 +71,6 @@
        <br>GCP
     </td>
     <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" style="width: 50px; height: 50px;">
-       <br>Docker
-    </td>
-    <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" style="width: 50px; height: 50px;">
-       <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" style="width: 50px; height: 50px;">
-       <br>Terraform
-    </td>
-    <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" style="width: 50px; height: 50px;">
        <br>Linux
     </td>
@@ -108,6 +96,18 @@
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" style="width: 50px; height: 50px;">
        <br>VueJS
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" style="width: 50px; height: 50px;">
+       <br>Docker
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" style="width: 50px; height: 50px;">
+       <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" style="width: 50px; height: 50px;">
+       <br>Terraform
     </td>
   </tr>
 </table>
