@@ -34,6 +34,10 @@
        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs icon">
        <br>NodeJS
     </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=python" alt="python icon">
+       <br>Python
+    </td>
   </tr>
 </table>
 
@@ -74,6 +78,10 @@
        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" style="width: 50px; height: 50px;">
        <br>Linux
     </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" style="width: 50px; height: 50px;">
+       <br>Docker
+    </td>
   </tr>
 </table>
 
@@ -92,10 +100,6 @@
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" style="width: 50px; height: 50px;">
        <br>AWS
-    </td>
-    <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" style="width: 50px; height: 50px;">
-       <br>Docker
     </td>
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" style="width: 50px; height: 50px;">
