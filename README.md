@@ -94,10 +94,6 @@
        <br>AWS
     </td>
     <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" style="width: 50px; height: 50px;">
-       <br>VueJS
-    </td>
-    <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" style="width: 50px; height: 50px;">
        <br>Docker
     </td>
